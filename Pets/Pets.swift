@@ -9,8 +9,10 @@ import Foundation
 
 class Pets {
     var petList:[String]
+    var wishList:[String]
     
     init() {
         self.petList = ["Theo","Toby"]
+        self.wishList = ["Dolphin", "Otter", "Koala"]
     }
 }

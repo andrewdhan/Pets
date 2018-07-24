@@ -13,6 +13,7 @@
 		10385CCE2107B09C003BBE95 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 10385CCC2107B09C003BBE95 /* LaunchScreen.storyboard */; };
 		10385CD72107B17E003BBE95 /* PetsTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10385CD62107B17E003BBE95 /* PetsTableViewController.swift */; };
 		10385CD92107B1D6003BBE95 /* Pets.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10385CD82107B1D6003BBE95 /* Pets.swift */; };
+		10385CDB2107B96C003BBE95 /* WishListTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10385CDA2107B96C003BBE95 /* WishListTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		10385CCF2107B09C003BBE95 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		10385CD62107B17E003BBE95 /* PetsTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PetsTableViewController.swift; sourceTree = "<group>"; };
 		10385CD82107B1D6003BBE95 /* Pets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Pets.swift; sourceTree = "<group>"; };
+		10385CDA2107B96C003BBE95 /* WishListTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WishListTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				10385CD62107B17E003BBE95 /* PetsTableViewController.swift */,
 				10385CC32107B09B003BBE95 /* AppDelegate.swift */,
 				10385CC72107B09B003BBE95 /* Main.storyboard */,
+				10385CDA2107B96C003BBE95 /* WishListTableViewController.swift */,
 				10385CD52107B0D4003BBE95 /* Resources */,
 			);
 			path = Pets;
@@ -147,6 +150,7 @@
 			files = (
 				10385CC42107B09B003BBE95 /* AppDelegate.swift in Sources */,
 				10385CD72107B17E003BBE95 /* PetsTableViewController.swift in Sources */,
+				10385CDB2107B96C003BBE95 /* WishListTableViewController.swift in Sources */,
 				10385CD92107B1D6003BBE95 /* Pets.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
